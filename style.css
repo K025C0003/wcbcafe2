@@ -1,7 +1,7 @@
 @charset "UTF-8";
 #共通部分
 html{
-    font-size:100px;
+    font-size:100%;
 }
 
 body{
@@ -76,9 +76,7 @@ img{
 }
 
 
-
-
-
+#HOME
 .cover-home{
     background-image: url("../images/cover-home-s.webp");
 }
